@@ -1,2 +1,2 @@
-# prayagbhatt
+# Prayag Bhatt
 My Personal Website!
